@@ -27,7 +27,7 @@ This journey as a proficient web developer ready to tackle any project that come
 
 # Output - 3
 
-![image alt]
+![image alt](https://github.com/mohdnazirk/MYPORTFOLIO/blob/ca536d126c54244b9538e53e29861be1ddc01ea6/Screenshot%203.png)
 
 # Output - 4
 
