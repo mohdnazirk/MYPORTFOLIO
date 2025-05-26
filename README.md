@@ -43,6 +43,6 @@ This journey as a proficient web developer ready to tackle any project that come
 
 # Output - 7
 
-![image alt]
+![image alt](https://github.com/mohdnazirk/MYPORTFOLIO/blob/052c36dc878a41a85c3f9bb254703f9ca639e495/Screenshot%207.png)
 
 
